@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkaushik7
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me: omkaushik990@gmail.com
 
